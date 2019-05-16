@@ -14,7 +14,7 @@ body {
     clear: both;
     height: 100%;
     margin: auto;
-    background-image: url("/assets/images/crossline-lines.png");
+    background-image: url("../images/crossline-lines.png");
     padding: 10px;
 }
 
