@@ -4,7 +4,7 @@ body {
 }
 
 #TopBar {
-    width: 960px;
+    /*width: 960px; */
     color: #ffffff;
     border-bottom: #cccccc;
     margin: auto;
@@ -19,7 +19,7 @@ body {
 }
 
 .WhiteBox {
-    /* width: 960px; */
+    max-width: 960px;
     background: white;
     margin: auto;   
     overflow: hidden;
